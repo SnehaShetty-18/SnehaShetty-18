@@ -70,3 +70,27 @@ Hi, I'm **Sneha S Shetty**, a Computer Science undergraduate specializing in **A
 </p>
 
 ---
+## 🧑‍💻 Repositories 🧑‍💻
+
+<p align="center">
+
+<a href="https://github.com/sahanamadival/Udaan">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sahanamadival&repo=Udaan&theme=github_dark_dimmed&border_color=58a6ff"/>
+</a>
+
+<a href="https://github.com/SnehaShetty-18/Mini_project">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SnehaShetty-18&repo=Mini_projectt&theme=github_dark_dimmed&border_color=58a6ff"/>
+</a>
+
+
+<a href="https://github.com/poojanaik06/SIH">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=poojanaik06&repo=SIH&theme=github_dark_dimmed&border_color=58a6ff"/>
+</a>
+
+<a href="https://github.com/Prewal137/Eco_Finds">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Prewal137&repo=Eco_Finds&theme=github_dark_dimmed&border_color=58a6ff"/>
+</a>
+
+</p>
+
+---
