@@ -47,3 +47,26 @@ Hi, I'm **Sneha S Shetty**, a Computer Science undergraduate specializing in **A
 </p>
 
 ---
+## ⚡ Stats ⚡
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SnehaShetty-18&theme=github-dark-blue&hide_border=true&border_radius=15&background=0d1117" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=SnehaShetty-18&show_icons=true&theme=github_dark_dimmed&hide_border=true&border_radius=15" height="180"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehaShetty-18&layout=compact&theme=github_dark_dimmed&hide_border=true&border_radius=15" height="180"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SnehaShetty-18&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true"/>
+
+</p>
+
+---
