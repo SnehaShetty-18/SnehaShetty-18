@@ -94,3 +94,10 @@ Hi, I'm **Sneha S Shetty**, a Computer Science undergraduate specializing in **A
 </p>
 
 ---
+## Contribution Graph
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prewal137/Prewal137/output/pacman-contribution-graph-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prewal137/Prewal137/output/pacman-contribution-graph.svg">
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Prewal137/Prewal137/output/pacman-contribution-graph.svg">
+</picture>
