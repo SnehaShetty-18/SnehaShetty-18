@@ -79,7 +79,7 @@ Hi, I'm **Sneha S Shetty**, a Computer Science undergraduate specializing in **A
 </a>
 
 <a href="https://github.com/SnehaShetty-18/Mini_project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SnehaShetty-18&repo=Mini_projectt&theme=github_dark_dimmed&border_color=58a6ff"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SnehaShetty-18&repo=Mini_project&theme=github_dark_dimmed&border_color=58a6ff"/>
 </a>
 
 
