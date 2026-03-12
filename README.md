@@ -19,3 +19,24 @@
 <img height="32" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
 </a>
 </p>
+Hi, I'm **Sneha S Shetty**, a Computer Science undergraduate specializing in **Artificial Intelligence and Machine Learning** at **Sahyadri College of Engineering & Management**.
+
+💡 My learning has largely been driven by **hands-on projects and practical exploration**, working across **web development, machine learning, artificial intelligence, and data analytics**.
+
+🔍 I enjoy building **data-driven applications**, including:
+
+- Developing **web-based solutions**
+- Analyzing **structured and time-series data**
+- Experimenting with **ML and AI techniques to extract insights**
+
+🧠 Through project-based work, I’ve developed a strong interest in **structured problem solving, analytical thinking, and building intelligent software systems**.
+
+🌱 As a student, I am continuously **strengthening my technical foundations** while exploring new tools, technologies, and domains.
+
+🤝 I’m always interested in **internships, collaborative projects, and opportunities** that help me gain real-world experience and grow as a developer.
+
+💬 Ask me about **Machine Learning, Data Science, Computer Vision, AI systems, or Web Development**
+
+📫 Reach me at: snehashetty.1805@gmail.com
+
+---
