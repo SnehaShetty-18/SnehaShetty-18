@@ -40,3 +40,10 @@ Hi, I'm **Sneha S Shetty**, a Computer Science undergraduate specializing in **A
 📫 Reach me at: snehashetty.1805@gmail.com
 
 ---
+## 🔥 Languages & Frameworks & Tools & Abilities 🔥
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=anaconda,arduino,blender,c,cpp,css,discord,django,docker,expressjs,fastapi,figma,flask,gcp,html,java,javascript,kali,markdown,mongodb,mysql,nodejs,opencv,pycharm,python,pytorch,r,react,scikitlearn,supabase,tensorflow,threejs,typescript,vercel,vite,vscode&theme=dark&perline=9" />
+</p>
+
+---
